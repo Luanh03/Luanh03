@@ -1,4 +1,6 @@
-### Hi there 👋
+Olá, me chamo Luan Henrique!
+
+Trabalho atualmente como desenvolvedor Júnior ASP.NET MVC, .NET, C# e SQL Server. Estudando Sistemas da Informação no Centro Universitário do Distrito Federal - UDF e Estagiário de Desenvolvimento de Software no Conselho Federal de Engenharia e Agronomia.
 
 <!--
 **Luanh03/Luanh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
